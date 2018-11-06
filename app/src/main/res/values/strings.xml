@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LopezMarvinLab4</string>
+    <string name="header">
+        Styles and Material Design
+    </string>
+    <string name="title">
+        Walk This Way Tour
+    </string>
+    <string name="location">
+        Location: Santa Clara St Fort Santiago, Intramuros, Manila, Luzon 1008 Philippines
+    </string>
+    <string name="distance">
+        Distance from UST: 3.8 km
+    </string>
+    <string name="button1">
+        Back
+    </string>
+    <string name="button2">
+        Next
+    </string>
+</resources>
